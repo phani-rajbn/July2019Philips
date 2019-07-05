@@ -1,0 +1,6 @@
+C:\Users\phani\source\repos\PhilipsDotnetTraining\SampleLib\bin\Debug\SampleLib.dll
+C:\Users\phani\source\repos\PhilipsDotnetTraining\SampleLib\bin\Debug\SampleLib.pdb
+C:\Users\phani\source\repos\PhilipsDotnetTraining\SampleLib\obj\Debug\SampleLib.csprojAssemblyReference.cache
+C:\Users\phani\source\repos\PhilipsDotnetTraining\SampleLib\obj\Debug\SampleLib.csproj.CoreCompileInputs.cache
+C:\Users\phani\source\repos\PhilipsDotnetTraining\SampleLib\obj\Debug\SampleLib.dll
+C:\Users\phani\source\repos\PhilipsDotnetTraining\SampleLib\obj\Debug\SampleLib.pdb
